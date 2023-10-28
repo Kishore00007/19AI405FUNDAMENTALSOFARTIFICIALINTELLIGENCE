@@ -39,9 +39,9 @@ Feedback is provided in terms of heuristic function
 <hr>
 
 ## PROGRAM:
-DEVELOPED BY : SHRRUTHILAYA G
+DEVELOPED BY : KISHORE KUMAR S
 
-REGISTER NUMBER : 212221230097
+REGISTER NUMBER : 212221240023
 ```PYTHON
 import random
 import string
