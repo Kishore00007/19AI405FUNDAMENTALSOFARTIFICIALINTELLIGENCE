@@ -25,6 +25,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 <hr>
 
 ## SAMPLE INPUT AND OUTPUT:
+
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
