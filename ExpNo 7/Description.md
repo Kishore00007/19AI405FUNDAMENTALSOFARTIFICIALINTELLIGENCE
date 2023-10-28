@@ -13,6 +13,7 @@ This algorithm will take three words.
            G A M E S<br>
 
 Output:
+
 It will show which letter holds which number from 0 – 9.
 For this case it is like this.
 
