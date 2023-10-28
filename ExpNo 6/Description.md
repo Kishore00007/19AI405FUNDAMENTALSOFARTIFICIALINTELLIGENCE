@@ -30,9 +30,9 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
 
 ## PROGRAM:
-DEVELOPED BY : SHRRUTHILAYA G
+DEVELOPED BY : KISHORE KUMAR S
 
-REGISTER NUMBER : 212221230097
+REGISTER NUMBER : 212221240023
 ```PYTHON
 import time
 
